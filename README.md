@@ -97,7 +97,8 @@ give correct code with header file
 
 ### Manual Calculation:
 
-![WhatsApp Image 2025-11-20 at 12 24 46_e5c5399d](https://github.com/user-attachments/assets/942dfa6e-f988-4449-8e7a-c7ac0b56defb)
+![WhatsApp Image 2025-11-29 at 13 02 26_d2881f44](https://github.com/user-attachments/assets/a104d3b0-eadb-4bf9-9c3c-60343d3a18f8)
+
 
 ---
 
